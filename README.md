@@ -1,0 +1,2 @@
+# estruturaWakanda
+trabalho marcelo 
